@@ -10,4 +10,4 @@ Also this works best in recent versions of Google Chrome browser.
 
 # Usage
 
-To run this on your system download the zip folder and extract all files. There are 2 folders one for search page one for home page. Navigate to one of them in your command line and run "npm install" this should take care of all required dependencies, and then run "npm start" and you should see the page up and running.
+To run this on your system download the zip folder and extract all files. There are 2 folders one for search page and one for home page. Navigate to one of them in your command line and run "npm install" this should take care of all required dependencies and node modules, then run "npm start" and you should see the page up and running in your default browser. I have included the flexboxgrid in node modules as that doesn't get installed automatically. I have downloaded and tested the repository on my own chrome browser as well.
